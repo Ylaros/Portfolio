@@ -1,6 +1,6 @@
 # 💼 Portfólio – Aloyr Rezende
 
-Bem-vindo ao meu portfólio público com projetos reais desenvolvidos em:
+Bem-vindo ao meu portfólio público com alguns projetos reais que desenvolvi em:
 
 - Power BI e DAX aplicados à contabilidade
 - SQL para ERP Domínio (SQL Anywhere)
